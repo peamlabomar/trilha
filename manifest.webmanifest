@@ -1,0 +1,29 @@
+{
+ "name": "Guia da Trilha Ecológica do Rio Pacoti",
+ "short_name": "Trilha PEAM",
+ "lang": "pt-BR",
+ "description": "Guia educacional da Trilha Ecológica do Estuário do Rio Pacoti (PEAM/LABOMAR/UFC): mata de tabuleiro, manguezal e apicum, com plantas, animais e lendas.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#dfeeee",
+ "theme_color": "#275db1",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
